@@ -10,6 +10,7 @@ Luckily I'll just have to deal with Python version 3.6+. This text does not cove
 
 - ipython
 - ipdb
+- flake8
 - [jupyter notebook](https://jupyter.org/)
 
 ## Recommended Books
@@ -37,3 +38,13 @@ print(f"received {data}", end="")
 ```
 
 ---
+
+## Tips
+
+### Enable flake8 in VSC
+
+Go to `Preferences > Settings > Python > Flake8Enabled`
+
+### Install flake8 manually
+
+`pip install flake8`
