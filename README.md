@@ -59,7 +59,7 @@ Install static analysis tools is essential because you do not have a compiler cr
 
 Go to `Preferences > Settings > Python > Flake8Enabled`
 
-#### Backslash
+### Backslash
 
 You can break line wherever you want using backslash `\`
 
