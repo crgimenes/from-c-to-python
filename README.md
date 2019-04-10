@@ -41,10 +41,14 @@ print(f"received {data}", end="")
 
 ## Tips
 
-### Enable flake8 in VSC
+### Static Analysis Tools
 
-Go to `Preferences > Settings > Python > Flake8Enabled`
+Installing static analysis tools is essential because it does not have a compiler criticizing your code and solving problems at runtime is bad.
 
-### Install flake8 manually
+#### Install flake8 manually
 
 `pip install flake8`
+
+#### Enable flake8 in VSC
+
+Go to `Preferences > Settings > Python > Flake8Enabled`
