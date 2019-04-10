@@ -10,6 +10,7 @@ Luckily I'll just have to deal with Python version 3.6+. This text does not cove
 
 - ipython
 - ipdb
+- [jupyter notebook](https://jupyter.org/)
 
 ## Recommended Books
 
