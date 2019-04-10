@@ -11,6 +11,10 @@ Luckily I'll just have to deal with Python version 3.6+. This text does not cove
 - ipython
 - ipdb
 
+## Recommended Books
+
+- Fluent Python
+
 ## Things to remember
 
 Trying to program in Python and does not transform Python into a strange C.
