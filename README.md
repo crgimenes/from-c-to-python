@@ -43,7 +43,7 @@ print(f"received {data}", end="")
 
 ### Static Analysis Tools
 
-Installing static analysis tools is essential because it does not have a compiler criticizing your code and solving problems at runtime is bad.
+Install static analysis tools is essential because you do not have a compiler criticizing your code and solving problems at runtime is bad.
 
 #### Install flake8 manually
 
