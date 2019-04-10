@@ -62,3 +62,4 @@ Go to `Preferences > Settings > Python > Flake8Enabled`
 ## Humor
 
 - [tabs vs spaces](https://youtu.be/cowtgmZuai0)
+- [Python Environment](https://xkcd.com/1987/)
