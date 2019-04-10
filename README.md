@@ -58,3 +58,7 @@ Install static analysis tools is essential because you do not have a compiler cr
 #### Enable flake8 in VSC
 
 Go to `Preferences > Settings > Python > Flake8Enabled`
+
+## Humor
+
+- [tabs vs spaces](https://youtu.be/cowtgmZuai0)
