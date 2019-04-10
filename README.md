@@ -39,6 +39,12 @@ print(f"received {data}", end="")
 
 ---
 
+### RTFM
+
+Read the documentation (obviously) and especially the [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+
+---
+
 ## Tips
 
 ### Static Analysis Tools
