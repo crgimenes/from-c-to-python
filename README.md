@@ -1,6 +1,6 @@
 # From C to Python
 
-I need to deal with a large project written in Python and several other scripting languages but I came from compiled C-like languages like C/C++/Objective-C/Go and so on.
+I need to deal with a large project written in Python and several other scripting languages and I came from compiled C-like languages like C/C++/Objective-C/Go and so on.
 
 But I know the design patterns and I have experienced friends to help me with the best practices and syntax (and maybe not so best practices), not to mention that it's interesting to get out of the comfort zone.
 
