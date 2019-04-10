@@ -12,6 +12,7 @@ Luckily I'll just have to deal with Python version 3.6+. This text does not cove
 - ipdb
 - flake8
 - [jupyter notebook](https://jupyter.org/)
+- [black](https://github.com/ambv/black)
 
 ## Recommended Books
 
@@ -77,6 +78,14 @@ if (a and
     b and
         not b):
 ...
+```
+
+### Black
+
+The uncompromising Python code formatter (it is the `go fmt` of the Python)
+
+```console
+pip install black
 ```
 
 ### Comments
