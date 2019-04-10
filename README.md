@@ -59,6 +59,26 @@ Install static analysis tools is essential because you do not have a compiler cr
 
 Go to `Preferences > Settings > Python > Flake8Enabled`
 
+#### Backslash
+
+You can break line wherever you want using backslash `\`
+
+```python
+if a and \
+    b and \
+        not b:
+...
+```
+
+Or you can use parentheses
+
+```python
+if (a and
+    b and
+        not b):
+...
+```
+
 ## Humor
 
 - [tabs vs spaces](https://youtu.be/cowtgmZuai0)
