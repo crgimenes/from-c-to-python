@@ -79,6 +79,18 @@ if (a and
 ...
 ```
 
+### Comments
+
+```python
+# This is a comment in one line
+
+"""
+This is a multiple
+line comment,
+crazy, right?
+"""
+```
+
 ## Humor
 
 - [tabs vs spaces](https://youtu.be/cowtgmZuai0)
