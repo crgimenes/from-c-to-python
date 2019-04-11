@@ -13,6 +13,7 @@ Luckily I'll just have to deal with Python version 3.6+. This text does not cove
 - flake8
 - [jupyter notebook](https://jupyter.org/)
 - [black](https://github.com/ambv/black)
+- [PyPI](https://pypi.org)
 
 ## Recommended Books
 
@@ -50,7 +51,7 @@ Read the documentation (obviously) and especially the [PEP 8](https://www.python
 
 ### Static Analysis Tools
 
-Install static analysis tools is essential because you do not have a compiler criticizing your code and solving problems at runtime is bad.
+Install static analysis tools is essential because you do not have a compiler criticizing your code and find problems at runtime is bad.
 
 #### Install flake8 manually
 
