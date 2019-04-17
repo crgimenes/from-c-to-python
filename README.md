@@ -41,6 +41,12 @@ print(f"received {data}", end="")
 
 ---
 
+### And do not do that either!
+
+```python
+true, false, null = True, False, None
+```
+
 ### RTFM
 
 Read the documentation (obviously) and especially the [PEP 8](https://www.python.org/dev/peps/pep-0008/)
